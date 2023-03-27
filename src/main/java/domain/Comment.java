@@ -1,4 +1,4 @@
-package com.example.task;
+package domain;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;

@@ -1,4 +1,4 @@
-package com.example.task;
+package domain;
 
 public class ResourceNotFoundException extends RuntimeException {
     private String resourceName;

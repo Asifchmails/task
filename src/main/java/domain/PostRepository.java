@@ -1,4 +1,4 @@
-package com.example.task;
+package domain;
 
 import java.util.Optional;
 
